@@ -1,2 +1,2 @@
 # AdvanceLabClub
-In honor of John Conway , an implementation Conway's Game of Life in C 
+In honor of John Conway , we implement Conway's Game of Life in C 
